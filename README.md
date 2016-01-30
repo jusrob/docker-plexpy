@@ -1,4 +1,4 @@
-Docker container for a python program for monitoring and analyzing your Plex server usage.
+Docker container for the python program plexpy used to monitor and analyze your Plex server usage.
 
 The plexpy database and logs are stored in the /data volume. I mount that volume to my docker host. To start use the following command:
 
